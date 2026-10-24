@@ -23,7 +23,7 @@ Currently pursuing an MSc in **Distributed Systems**
 
 ### `01` / About
 
-I work as a Backend Developer at an AI startup, building backend features with Python and FastAPI. Alongside my work, I'm pursuing an MSc in Distributed Systems at UAIC.
+Backend Developer at an AI startup, building backend features with Python and FastAPI. Alongside my work, I'm pursuing an MSc in Distributed Systems at UAIC.
 
 I'm particularly interested in cloud infrastructure, distributed architectures, and the engineering behind reliable software systems.
 
